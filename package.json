@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-shouldjs",
+  "version": "1.0.2",
+  "description": "eslint config to use in every should.js module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shouldjs/eslint-config-shouldjs.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "Denis Bardadym <bardadymchik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shouldjs/eslint-config-shouldjs/issues"
+  },
+  "homepage": "https://github.com/shouldjs/eslint-config-shouldjs#readme",
+  "dependencies": {
+    "js-yaml": "^3.6.1"
+  }
+}
